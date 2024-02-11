@@ -1,2 +1,2 @@
 # ignition-hammer
-Declarative Python API for streamlined Ignition Gateway management and configuration.
+Ignition-Hammer is a powerful Python API for Ignition that revolutionizes the way you create, configure, and manage Ignition Gateway. With a declarative and organized approach, it leverages the CherryBox framework to ensure seamless integration and streamlined project development. Ignition-Hammer is your go-to tool for maintaining high levels of efficiency and organization in your Ignition SCADA deployments.
